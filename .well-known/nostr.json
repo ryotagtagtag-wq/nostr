@@ -1,5 +1,17 @@
 {
   "names": {
-    "game_ryo": "003e790b1e0ad37313603234331c377810dfe09b633d2808402dd3c6c6461b69"
+    "あなたのユーザー名": "003e790b1e0ad37313603234331c377810dfe09b633d2808402dd3c6c6461b69)"
+  },
+  "relays": {
+    "003e790b1e0ad37313603234331c377810dfe09b633d2808402dd3c6c6461b69": [
+      "wss://relay.damus.io",
+      "wss://nos.lol",
+      "wss://relay.snort.social"
+    ]
+  },
+  "nip46": {
+    "003e790b1e0ad37313603234331c377810dfe09b633d2808402dd3c6c6461b69": [
+      "wss://relay.nsec.app"
+    ]
   }
 }
