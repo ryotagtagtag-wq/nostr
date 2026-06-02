@@ -9,7 +9,7 @@
       "wss://nos.lol",
       "wss://relay.snort.social"
     ],
-      "22fe90b5b53e041de23e34512983374970747e11f5d9530f5f5a0cbe57b134cb": [
+    "22fe90b5b53e041de23e34512983374970747e11f5d9530f5f5a0cbe57b134cb": [
       "wss://relay.damus.io",
       "wss://nos.lol",
       "wss://relay.snort.social"
@@ -21,6 +21,6 @@
     ],
     "22fe90b5b53e041de23e34512983374970747e11f5d9530f5f5a0cbe57b134cb": [
       "wss://relay.nsec.app"
-    ],
+    ]
   }
 }
