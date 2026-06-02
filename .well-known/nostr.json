@@ -1,7 +1,7 @@
 {
   "names": {
     "game_ryo": "003e790b1e0ad37313603234331c377810dfe09b633d2808402dd3c6c6461b69",
-    "ryopc": "b0d162cfb6313f6abe91e25bd9d96a64fdf0d4ad7487097f32e2b69d9316db4d"
+    "ryopc": "22fe90b5b53e041de23e34512983374970747e11f5d9530f5f5a0cbe57b134cb"
   },
   "relays": {
     "003e790b1e0ad37313603234331c377810dfe09b633d2808402dd3c6c6461b69": [
@@ -9,7 +9,7 @@
       "wss://nos.lol",
       "wss://relay.snort.social"
     ],
-      "b0d162cfb6313f6abe91e25bd9d96a64fdf0d4ad7487097f32e2b69d9316db4d": [
+      "22fe90b5b53e041de23e34512983374970747e11f5d9530f5f5a0cbe57b134cb": [
       "wss://relay.damus.io",
       "wss://nos.lol",
       "wss://relay.snort.social"
@@ -18,6 +18,10 @@
   "nip46": {
     "003e790b1e0ad37313603234331c377810dfe09b633d2808402dd3c6c6461b69": [
       "wss://relay.nsec.app"
-    ]
+    ],
+      "nip46": {
+    "22fe90b5b53e041de23e34512983374970747e11f5d9530f5f5a0cbe57b134cb": [
+      "wss://relay.nsec.app"
+    ],
   }
 }
